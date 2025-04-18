@@ -32,6 +32,15 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				book: {
+					navy: '#1A365D',
+					blue: '#2B6CB0',
+					teal: '#319795',
+					cream: '#F9F4E8',
+					paper: '#F7FAFC',
+					highlight: '#FED7AA',
+					accent: '#ED8936',
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
